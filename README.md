@@ -3,6 +3,10 @@
 Curriculum
 
 * Constrain satisfaction problem
+  * Backtracking search
+  * CSP solver
+    * Microsoft Research Z3 solver
+    * Google OR Tools
 * Classical search
   * Uninformed search
     * Breadth first search
