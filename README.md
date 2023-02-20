@@ -7,7 +7,7 @@ Curriculum
   * Uninformed search
     * Breadth first search
     * Depth first search
-    * Dijkstra
+    * Uniform cost search
   * Informed search
     * Greedy best-first search
     * A* search
