@@ -7,9 +7,9 @@ Curriculum
   * Uninformed search
     * Breadth first search
     * Depth first search
-    * Uniform cost search
+    * ~Uniform cost search
   * Informed search
-    * Greedy best-first search
+    * ~Greedy best-first search
     * A* search
 * Automated planning
 * Optimization problems
