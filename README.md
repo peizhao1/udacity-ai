@@ -16,6 +16,10 @@ Curriculum
     * ~Greedy best-first search
     * A* search
 * Automated planning
+  * Symbolic logic & reasoning
+    * Propositional logic
+    * First order logic
+  * Classical planning
 * Optimization problems
 * Adversarial search
 * Probabilistic models   
