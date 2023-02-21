@@ -20,6 +20,10 @@ Curriculum
     * Propositional logic
     * First order logic
   * Classical planning
-* Optimization problems
+    * Air cargo problem
+* Optimization problems (gradient-free)
+  * Hill climbing
+  * Simulated annealing
+  * Genetic algorithm
 * Adversarial search
 * Probabilistic models   
