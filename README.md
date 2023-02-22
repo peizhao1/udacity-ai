@@ -1,6 +1,6 @@
 # udacity-ai
 
-Curriculum
+## Curriculum
 
 * Constrain satisfaction problem
   * Backtracking search
@@ -32,3 +32,7 @@ Curriculum
   * Isolation game player
   * Multi-player probabilistic games
 * Probabilistic models   
+
+## Appendix
+### Minimax
+![minimax-decision](img/minimax-decision.png)
