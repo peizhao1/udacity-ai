@@ -26,4 +26,9 @@ Curriculum
   * Simulated annealing
   * Genetic algorithm
 * Adversarial search
+  * Minimax algorithm
+  * Alpha-beta pruning
+  * Evalution functions
+  * Isolation game player
+  * Multi-player probabilistic games
 * Probabilistic models   
