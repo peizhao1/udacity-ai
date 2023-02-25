@@ -3,6 +3,7 @@
 
 from copy import deepcopy
 
+call_counter = 0
 xlim, ylim = 3, 2  # board dimensions
 
 # The eight movement directions possible for a chess queen
@@ -62,6 +63,8 @@ class GameState:
         player has no remaining liberties (even if the
         player is not active in the current state)
         """
+        global call_counter
+        call_counter += 1
         return (not self._has_liberties(self._parity)
             or not self._has_liberties(1 - self._parity))
 
