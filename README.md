@@ -31,6 +31,8 @@
   * Evalution functions
   * Isolation game player
   * Multi-player probabilistic games
+  * Monte Carlo Tree Search
+    * AlphaGo, AlphaZero
 * Probabilistic models   
 
 ## Appendix
