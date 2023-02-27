@@ -1,5 +1,7 @@
 # udacity-ai
 
+Udacity AI - an introduction to AI.
+
 ## Curriculum
 
 * Constrain satisfaction problem
