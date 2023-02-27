@@ -33,7 +33,13 @@
   * Multi-player probabilistic games
   * Monte Carlo Tree Search
     * AlphaGo, AlphaZero
-* Probabilistic models   
+* Probabilistic models
+  * Probability theory
+  * Naive Bayes
+    * Spam email classifier
+  * Bayes Nets
+  * Hidden Markov models
+    * Speech tagging
 
 ## Appendix
 ### Minimax
