@@ -40,6 +40,10 @@
   * Bayes Nets
   * Hidden Markov models
     * Speech tagging
+* What is next?
+  * Machine learning
+  * Deep learning
+  * Deep reinforcement learning
 
 ## Appendix
 ### Minimax
