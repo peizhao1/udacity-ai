@@ -41,9 +41,10 @@
   * Hidden Markov models
     * Speech tagging
 * What is next?
-  * Machine learning
-  * Deep learning
-  * Deep reinforcement learning
+  * Learning from examples
+    * Machine learning 
+    * Deep learning
+    * Deep reinforcement learning
 
 ## Appendix
 ### Minimax
